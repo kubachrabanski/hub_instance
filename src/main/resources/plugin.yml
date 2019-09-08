@@ -1,0 +1,6 @@
+main: org.kubachrabanski.Plugin
+name: HubInstance
+version: 0.1
+api-version: 1.14
+description: Plugin for hub instance at dirt.cf
+author: kubachrabanski

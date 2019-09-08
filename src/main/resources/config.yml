@@ -1,0 +1,17 @@
+instance:
+  type: PRIVATE
+  identifier: HUB
+
+spawn_point:
+  x: 0.5
+  y: 63.0
+  z: -77.5
+
+purge_files:
+  - playerdata
+  - data
+  - stats
+  - advancements
+  - uid.dat
+  - level.dat
+  - level.dat_old
